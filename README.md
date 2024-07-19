@@ -1,4 +1,3 @@
 ﻿# juegoadivinanumero
-este es mi primer juego
-estoy aprendiento git
-estoy feliz por esa razón
+
+El juego consta de adivinar el numero que esta en el rango entre 1 y 10
